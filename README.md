@@ -12,6 +12,6 @@ Execute the duplicate_images_remover.py with required command line arguments fol
 colab$ %run duplicate_images_remover.py -f /content/duplicates -t 2 -i false
 ```
 
-<img width="266" alt="duplicate_img_remover" src="https://user-images.githubusercontent.com/18000553/134904064-9ed456aa-ca32-4efe-9a8e-139fb4f59d48.png">
+<img width="286" alt="duplicate_img_remover" src="https://user-images.githubusercontent.com/18000553/134922020-23c7c831-5cd9-40ed-8c63-a4c0dec96319.png">
 
 # Efficient Remover of Duplicate Images
