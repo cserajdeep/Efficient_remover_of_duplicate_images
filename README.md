@@ -12,7 +12,7 @@ Execute the duplicate_images_remover.py with required command line arguments fol
 colab$ %run duplicate_images_remover.py -f /content/duplicates -t 2 -i false
 ```
 
-<img width="286" alt="duplicate_img_remover" src="https://user-images.githubusercontent.com/18000553/134922020-23c7c831-5cd9-40ed-8c63-a4c0dec96319.png">
+<img width="280" alt="duplicate_img_remover" src="https://user-images.githubusercontent.com/18000553/134928552-c9acde2b-2eef-42ac-bda1-f62565300862.png">
 
 One may also explore the Structural Similarity Index (https://scikit-image.org/docs/dev/auto_examples/transform/plot_ssim.html#sphx-glr-auto-examples-transform-plot-ssim-py)
 
